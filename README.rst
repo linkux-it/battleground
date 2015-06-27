@@ -6,10 +6,11 @@ Battleground is a command line tool to improve taskwarrior. Or hooks... still pe
 First feature is just sync with trello dashboard with some
 mapping on each sides:
 
-| Taskwarrior        | Trello           |
-| ------------- |:-------------:|
-| Project       | Task Board    |
-| Task          | Card          |
+============  =============
+Taskwarrior    Trello 
+------------- -------------
+Project       Task Board   
+Task          Card         
 
 Features
 ________
