@@ -8,9 +8,10 @@ mapping on each sides:
 
 ============  =============
 Taskwarrior    Trello 
-------------- -------------
+============  =============
 Project       Task Board   
 Task          Card         
+============  =============
 
 Features
 ________
